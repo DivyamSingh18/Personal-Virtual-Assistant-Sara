@@ -69,7 +69,7 @@ if __name__ == '__main__':
             os.startfile(chrome)
 
         elif 'shutdown' in query:
-            speak('Assistant software shutting down initiated')
+            speak('Assistant software shut down initiated')
             speak('5, 4, 3, 2, 1, 0 ')
             exit()
 
